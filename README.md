@@ -32,8 +32,8 @@
 
 ## 🌟 Highlighted Projects
 
-### 🏥 [Hospital Management System](https://github.com/Alphashivesh/hospital)
-> A full-stack PHP system streamlining hospital workflows. Reduced patient intake time by 30% with improved data integrity and user interface.
+### 💫 [My Portfolio](https://github.com/Alphashivesh/my_portfolio)
+> A beautiful, responsive portfolio website built with React, TypeScript, and Tailwind CSS, featuring a modern design with smooth animations and dark mode support.
 
 ### 🤖 [Chatbot using NLP](https://github.com/Alphashivesh/chatbot) • [Live Demo](https://chatbot-byshivesh.streamlit.app/)
 > A smart intent-based chatbot developed with Node.js and NLP libraries. Built to be scalable and ready for AI integration.
