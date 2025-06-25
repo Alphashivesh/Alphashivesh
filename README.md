@@ -3,8 +3,8 @@
 # 👋 Hello World! I'm Shivesh Kumar
 
 🌐 Full-Stack Developer • 🤖 Robotics Enthusiast • 🧠 AI Explorer  
-🎓 B.Tech in Computer Science @ NIT Meghalaya | CGPA: 9.33  
-🔭 I’m currently working on automation, robotics simulations, and advanced web platforms.  
+🎓 B.Tech in Computer Science @ NIT Meghalaya | CGPA: 9.36  
+🔭 I’m currently working on llm, langchain, and langgraph.  
 🌱 Constantly learning — Data Science, NLP, Cybersecurity, and Scalable System Design.  
 
 ---
