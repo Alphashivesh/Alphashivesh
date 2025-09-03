@@ -38,8 +38,8 @@
 ### 🤖 [Chatbot using NLP](https://github.com/Alphashivesh/chatbot) • [Live Demo](https://chatbot-byshivesh.streamlit.app/)
 > A smart intent-based chatbot developed with Node.js and NLP libraries. Built to be scalable and ready for AI integration.
 
-### ☔ [Rainfall Prediction System](https://github.com/Alphashivesh/Rainfall)
-> Predicts rainfall trends using historic data (1901–2015) and ML models. Supports precision agriculture and irrigation planning.
+### 📰 [Fake news detector](https://github.com/Alphashivesh/fake-news-detector)
+> Predicts whether a given news is true or not Using ML models. Featured ML scalability and AI integration.
 
 ### ✅ [Taskflow](https://github.com/Alphashivesh/taskflow)
 > Beautiful, responsive task management app with React + TypeScript. Features filtering, drag-and-drop UI, and task persistence.
