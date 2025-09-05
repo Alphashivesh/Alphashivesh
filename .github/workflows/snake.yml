@@ -1,25 +1,36 @@
 name: Generate Snake
 
 on:
-  schedule: # every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # run manually
-  push:
-    branches:
-      - main
+  schedule:            # automatic runs (once per day)
+    - cron: "0 0 * * *"
+  workflow_dispatch:   # allow manual runs from Actions UI
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: Alphashivesh
-          outputs: dist/snake.svg
 
-      - name: Push to GitHub
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate snake SVGs (svg-only)
+        uses: Platane/snk/svg-only@v3
+        with:
+          # use the repo owner by default; change if needed
+          github_user_name: ${{ github.repository_owner }}
+          # list of files to generate (one per line). Query string options allowed.
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated files to 'output' branch
         uses: EndBug/add-and-commit@v9
         with:
+          message: "chore: generate snake animation"
+          add: "dist/**"
           branch: output
-          message: "Generate snake animation"
-          add: "dist/snake.svg"
