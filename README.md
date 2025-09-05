@@ -90,8 +90,6 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
-![Snake animation](https://github.com/Alphashivesh/Alphashivesh/blob/output/snake.svg)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shivesh-kumar-39240b264)  
