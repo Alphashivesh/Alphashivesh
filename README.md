@@ -110,10 +110,11 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 🌐 [GitHub Profile](https://github.com/Alphashivesh)
 
 ---
-
+<p align="center">
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&lines=Hello+World!;I+am+a+Programmer;I+love+Open+Source;Coding+is+Life)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800"/>
