@@ -1,5 +1,5 @@
 <!-- Profile Views -->
-![Visitor Count](https://visitcount.itsvg.in/api?id=Alphashivesh&color=0e75b6&icon=0&pretty=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=Alphashivesh&color=0e75b6&style=flat&label=Profile+Views)
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
   <b>Welcome to my GitHub!</b>
@@ -29,8 +29,10 @@
 - 🎮 Gamer at heart  
 - 📚 Reads about AI ethics & philosophy
 - 🎵 90s bollywood song
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
+---
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
 ## 🚀 Tech Stack & Tools
 
