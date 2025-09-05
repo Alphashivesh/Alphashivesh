@@ -88,8 +88,9 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 [![Alphashivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=zues&font=Gabrielle)
 
+![Snake animation](https://github.com/Alphashivesh/Alphashivesh/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with Me
 
