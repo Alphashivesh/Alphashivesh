@@ -87,12 +87,10 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 </p>
 
 ---
-
+## 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alphashivesh&theme=dracula&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Alphashivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ## 📫 Connect with Me
 
@@ -102,5 +100,5 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
