@@ -1,6 +1,4 @@
 # <p align="center">Welcome to my GitHub!</p>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800"/>
-
 
 
 <p align="center">
@@ -117,6 +115,7 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&lines=Hello+World!;I+am+a+Programmer;I+love+Open+Source;Coding+is+Life)](https://git.io/typing-svg)
 
-
-
+<p align="center">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800"/>
+</p>
 
