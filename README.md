@@ -2,7 +2,7 @@
 # <p align="center">Welcome to my GitHub!</p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300" />
 </p>
 
 </p>
