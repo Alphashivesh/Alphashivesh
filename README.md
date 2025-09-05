@@ -112,7 +112,8 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
-<img src="https://i.gifer.com/7VE.gif" width="600" height="300"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&lines=Hello+World!;I+am+a+Programmer;I+love+Open+Source;Coding+is+Life)](https://git.io/typing-svg)
+
 
 
 
