@@ -1,11 +1,11 @@
 <!-- Profile Views -->
+# <p align="center">Welcome to my GitHub!</p>
 <p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" height="300" />
 </p>
 
 </p>
-
-  ## <p align="center">Welcome to my GitHub!</p>
+ 
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alphashivesh/Alphashivesh/main/assets/banner.gif" alt="Banner" />
