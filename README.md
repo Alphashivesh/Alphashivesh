@@ -1,4 +1,3 @@
-<!-- Profile Views -->
 # <p align="center">Welcome to my GitHub!</p>
 
 <p align="center">
