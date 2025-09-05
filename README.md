@@ -1,4 +1,12 @@
 <!-- Profile Views -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
+  <b>Welcome to my GitHub!</b>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&lines=Full+Stack+Developer;AI+Explorer;Robotics+Enthusiast;Always+Learning...)](https://git.io/typing-svg)
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Alphashivesh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 ## Hi there 👋
@@ -75,6 +83,13 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 </p>
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alphashivesh&theme=dracula&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Alphashivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+
 
 ## 📫 Connect with Me
 
