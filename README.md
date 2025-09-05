@@ -5,13 +5,11 @@
 
 </p>
 
-  <p align="center">Welcome to my GitHub!</p>
+  ## <p align="center">Welcome to my GitHub!</p>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alphashivesh/Alphashivesh/main/assets/banner.gif" alt="Banner" />
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&lines=Full+Stack+Developer;AI+Explorer;Robotics+Enthusiast;Always+Learning...)](https://git.io/typing-svg)
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Alphashivesh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
