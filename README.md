@@ -1,6 +1,6 @@
 <!-- Profile Views -->
 <p align="center">
-  <span style="font-size:30px;">Welcome to my GitHub!</span>
+  <span style="font-size:100px;">Welcome to my GitHub!</span>
 </p>
 
 <p align="center">
