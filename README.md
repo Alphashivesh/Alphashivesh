@@ -1,5 +1,4 @@
 <!-- Profile Views -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Alphashivesh&color=0e75b6&style=flat&label=Profile+Views)
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
   <b>Welcome to my GitHub!</b>
@@ -32,7 +31,7 @@
 
 ---
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/alphashivesh)
 
 ## 🚀 Tech Stack & Tools
 
