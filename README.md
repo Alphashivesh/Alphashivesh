@@ -1,7 +1,11 @@
 <!-- Profile Views -->
+![Visitor Count](https://visitcount.itsvg.in/api?id=Alphashivesh&label=Profile%20Views&color=0e75b6&icon=5&pretty=true)
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
   <b>Welcome to my GitHub!</b>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alphashivesh/Alphashivesh/main/assets/banner.gif" alt="Banner" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&lines=Full+Stack+Developer;AI+Explorer;Robotics+Enthusiast;Always+Learning...)](https://git.io/typing-svg)
