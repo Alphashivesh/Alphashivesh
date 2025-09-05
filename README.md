@@ -1,3 +1,6 @@
+<!-- Profile Views -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Alphashivesh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
+
 ## Hi there 👋
 
 # 👋 Hello World! I'm Shivesh Kumar
