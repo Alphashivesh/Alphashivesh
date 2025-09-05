@@ -1,6 +1,8 @@
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="banner" width="100%" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" height="300" />
+</p>
+
 </p>
 
   <b>Welcome to my GitHub!</b>
