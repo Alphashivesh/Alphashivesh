@@ -60,6 +60,9 @@
 
 ### 💫 [My Portfolio](https://github.com/Alphashivesh/my_portfolio)
 > A beautiful, responsive portfolio website built with React, TypeScript, and Tailwind CSS, featuring a modern design with smooth animations and dark mode support.
+> 
+### 💫 [Mobile App](https://github.com/Alphashivesh/mobile_app)
+> A beautiful, responsive mobile application built with Flutter(dart), Node.js(REST API) and MySQL(database) featuring a modern design with smooth animations.
 
 ### 🤖 [Chatbot using NLP](https://github.com/Alphashivesh/chatbot) • [Live Demo](https://chatbot-byshivesh.streamlit.app/)
 > A smart intent-based chatbot developed with Node.js and NLP libraries. Built to be scalable and ready for AI integration.
