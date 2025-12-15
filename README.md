@@ -96,13 +96,11 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alphashivesh&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alphashivesh&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Alphashivesh&theme=dracula" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphashivesh&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
-## 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alphashivesh&theme=dracula&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Alphashivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
