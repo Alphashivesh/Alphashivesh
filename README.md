@@ -96,7 +96,8 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alphashivesh&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/langs/?username=Alphashivesh&layout=compact&theme=dracula" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphashivesh&layout=compact&theme=dracula" />
+
 </p>
 
 
