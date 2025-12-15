@@ -95,10 +95,11 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphashivesh&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Alphashivesh&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphashivesh&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alphashivesh&show_icons=true&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=Alphashivesh&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphashivesh&layout=compact&theme=dracula" />
 </p>
+
 
 ---
 
