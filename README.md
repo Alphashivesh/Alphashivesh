@@ -57,6 +57,16 @@
 ---
 
 ## 🌟 Highlighted Projects
+### 💫 [🧠 DocuMind AI]
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge&logo=vercel)](https://documind-by-shivesh.vercel.app)
+> An intelligent document analysis platform using Gemini 3.1 Flash and FastAPI.
+- **Live Site:** [Visit DocuMind](https://documindbyshivesh.netlify.app)
+- **Tech Stack:** React, Tailwind, FastAPI, Supabase, Render.
+  ```bash
+  Note: The backend is hosted on a free tier and may take ~45 seconds to spin up on the first request.
+  ```
+> 
+
 
 ### 💫 [My Portfolio](https://github.com/Alphashivesh/my_portfolio)
 > A beautiful, responsive portfolio website built with React, TypeScript, and Tailwind CSS, featuring a modern design with smooth animations and dark mode support.
