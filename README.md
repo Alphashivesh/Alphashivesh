@@ -57,7 +57,7 @@
 ---
 
 ## 🌟 Highlighted Projects
-### 💫 [🧠 DocuMind AI]
+### 💫 🧠 DocuMind AI
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg?style=for-the-badge&logo=vercel)](https://documind-by-shivesh.vercel.app)
 > An intelligent document analysis platform using Gemini 3.1 Flash and FastAPI.
 - **Live Site:** [Visit DocuMind](https://documindbyshivesh.netlify.app)
