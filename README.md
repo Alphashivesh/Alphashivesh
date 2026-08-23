@@ -109,7 +109,30 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphashivesh&layout=donut-vertical&theme=dracula" />
 </p>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alphashivesh)](https://github.com/stats-organization/github-stats-extended)
+
+- Show your GitHub statistics:
+
+  ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alphashivesh)
+
+- ...your top languages...:
+
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Alphashivesh&langs_count=4)
+
+- ...and development time:
+
+  [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6)](https://wakatime.com/@alan)
+
+- Pin more than 6 repos in your GitHub profile:
+
+  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Alphashivesh&repo=github-readme-stats)](https://github.com/Alphashivesh/github-readme-stats)
+
+- Pin Gists in your GitHub profile:
+
+  [![Gist Card](https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d)
+
+- Customize all the cards:
+
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 
 ---
