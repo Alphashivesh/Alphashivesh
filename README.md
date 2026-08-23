@@ -106,7 +106,7 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 <p align="center">
   <img src="https://github-stats-extended-shivesh.vercel.app/api?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&show=prs_merged,prs_reviewed,prs_merged_percentage,reviews" />
-  <img src="https://github-stats-extended-shivesh.vercel.app/api/top-langs/?username=Alphashivesh&show_icons=true&theme=calm&layout=compact&langs_count=14" />
+  <img src="https://github-stats-extended-shivesh.vercel.app/api/top-langs/?username=Alphashivesh&show_icons=true&theme=calm&layout=compact&langs_count=16" />
 </p>
 
 - Customize all the cards:
