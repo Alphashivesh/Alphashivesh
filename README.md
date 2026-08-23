@@ -134,6 +134,6 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
-</p>
+</p> -->
