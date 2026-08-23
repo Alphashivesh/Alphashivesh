@@ -123,7 +123,7 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
       width="480"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://gist.github.com/Alphashivesh/YOUR_SECOND_GIST_ID">
     <img
       src="https://github-stats-extended-shivesh.vercel.app/api/gist?id=YOUR_SECOND_GIST_ID&theme=calm&show_owner=true"
