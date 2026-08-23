@@ -106,16 +106,24 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 <p align="center">
   <img src="https://github-stats-extended-shivesh.vercel.app/api?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&show=prs_merged,prs_reviewed,prs_merged_percentage,reviews" />
+
   <img src="https://github-stats-extended-shivesh.vercel.app/api/top-langs/?username=Alphashivesh&show_icons=true&theme=calm&layout=compact&langs_count=16" />
 </p>
 
-- Pin Gists in your GitHub profile:
+## 📌 Featured Gists
 
-  [![Gist Card](https://github-stats-extended-shivesh.vercel.app/api/gist?id=999130757ee600c598bb22fdd081b6c0)](https://gist.github.com/Alphashivesh/999130757ee600c598bb22fdd081b6c0)
+<p align="center">
+  <a href="https://gist.github.com/Alphashivesh/999130757ee600c598bb22fdd081b6c0">
+    <img src="https://github-stats-extended-shivesh.vercel.app/api/gist?id=999130757ee600c598bb22fdd081b6c0" />
+  </a>
 
+  <a href="https://gist.github.com/Alphashivesh/YOUR_SECOND_GIST_ID">
+    <img src="https://github-stats-extended-shivesh.vercel.app/api/gist?id=YOUR_SECOND_GIST_ID" />
+  </a>
+</p>
 ---
 
-[![Alphashivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alphashivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=calm)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Connect with Me
 
