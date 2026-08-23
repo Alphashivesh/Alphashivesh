@@ -104,9 +104,11 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 ## 📈 GitHub Stats & Contributions
 
+## 📈 GitHub Stats & Contributions
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphashivesh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphashivesh&layout=donut-vertical&theme=dracula" />
+  <img src="https://github-stats-extended-shivesh.vercel.app/api?username=Alphashivesh&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img src="https://github-stats-extended-shivesh.vercel.app/api/top-langs/?username=Alphashivesh&layout=donut-vertical&theme=dracula" />
 </p>
 
 
