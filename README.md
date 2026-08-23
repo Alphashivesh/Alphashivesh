@@ -112,8 +112,6 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 ## 📌 Featured Gists
 
-## 📌 Featured Gists
-
 <br>
 
 <p align="center">
@@ -133,7 +131,14 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 </p>
 ---
 
-[![Alphashivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/Alphashivesh">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=dracula&hide_border=true"
+      alt="Shivesh's GitHub Activity Graph"
+    />
+  </a>
+</p>
 
 ## 📫 Connect with Me
 
