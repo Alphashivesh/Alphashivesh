@@ -109,28 +109,6 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
   <img src="https://github-stats-extended-shivesh.vercel.app/api/top-langs/?username=Alphashivesh&show_icons=true&theme=calm&layout=compact&langs_count=16" />
 </p>
 
-- Customize all the cards:
-
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
-
-
-
-- Show your GitHub statistics:
-
-  ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alphashivesh)
-
-- ...your top languages...:
-
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Alphashivesh&langs_count=4)
-
-- ...and development time:
-
-  [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=Alphashivesh&langs_count=6)](https://wakatime.com/@alan)
-
-- Pin more than 6 repos in your GitHub profile:
-
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Alphashivesh&repo=github-readme-stats)](https://github.com/Alphashivesh/github-readme-stats)
-
 - Pin Gists in your GitHub profile:
 
   [![Gist Card](https://github-stats-extended-shivesh.vercel.app/api/gist?id=999130757ee600c598bb22fdd081b6c0)](https://gist.github.com/Alphashivesh/999130757ee600c598bb22fdd081b6c0)
