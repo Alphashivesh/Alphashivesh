@@ -128,7 +128,7 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 - Pin Gists in your GitHub profile:
 
-  [![Gist Card](https://github-stats-extended-shivesh.vercel.app/api/gist?id=999130757ee600c598bb22fdd081b6c0)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d)
+  [![Gist Card](https://github-stats-extended-shivesh.vercel.app/api/gist?id=999130757ee600c598bb22fdd081b6c0)](https://gist.github.com/Alphashivesh/999130757ee600c598bb22fdd081b6c0)
 
 - Customize all the cards:
 
