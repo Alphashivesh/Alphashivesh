@@ -112,18 +112,28 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 ## 📌 Featured Gists
 
+## 📌 Featured Gists
+
+<br>
+
 <p align="center">
   <a href="https://gist.github.com/Alphashivesh/999130757ee600c598bb22fdd081b6c0">
-    <img src="https://github-stats-extended-shivesh.vercel.app/api/gist?id=999130757ee600c598bb22fdd081b6c0" />
+    <img
+      src="https://github-stats-extended-shivesh.vercel.app/api/gist?id=999130757ee600c598bb22fdd081b6c0&theme=calm&show_owner=true"
+      width="480"
+    />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gist.github.com/Alphashivesh/YOUR_SECOND_GIST_ID">
-    <img src="https://github-stats-extended-shivesh.vercel.app/api/gist?id=YOUR_SECOND_GIST_ID" />
+    <img
+      src="https://github-stats-extended-shivesh.vercel.app/api/gist?id=YOUR_SECOND_GIST_ID&theme=calm&show_owner=true"
+      width="480"
+    />
   </a>
 </p>
 ---
 
-[![Alphashivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=calm)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alphashivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Connect with Me
 
