@@ -109,6 +109,8 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphashivesh&layout=donut-vertical&theme=dracula" />
 </p>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alphashivesh)](https://github.com/stats-organization/github-stats-extended)
+
 
 ---
 
