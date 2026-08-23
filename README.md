@@ -120,7 +120,7 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 - ...and development time:
 
-  [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6)](https://wakatime.com/@alan)
+  [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=Alphashivesh&langs_count=6)](https://wakatime.com/@alan)
 
 - Pin more than 6 repos in your GitHub profile:
 
@@ -132,7 +132,7 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 
 - Customize all the cards:
 
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
 
 ---
