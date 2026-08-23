@@ -105,9 +105,14 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-stats-extended-shivesh.vercel.app/api?username=Alphashivesh&show_icons=true&include_all_commits=true&show=prs_merged,prs_reviewed,reviews" />
-  <img src="https://github-stats-extended-shivesh.vercel.app/api/top-langs/?username=Alphashivesh&layout=compact&langs_count=14" />
+  <img src="https://github-stats-extended-shivesh.vercel.app/api?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&show=prs_merged,prs_reviewed,prs_merged_percentage,reviews" />
+  <img src="https://github-stats-extended-shivesh.vercel.app/api/top-langs/?username=Alphashivesh&show_icons=true&theme=calm&layout=compact&langs_count=14" />
 </p>
+
+- Customize all the cards:
+
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
 
 
 - Show your GitHub statistics:
@@ -129,11 +134,6 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
 - Pin Gists in your GitHub profile:
 
   [![Gist Card](https://github-stats-extended-shivesh.vercel.app/api/gist?id=999130757ee600c598bb22fdd081b6c0)](https://gist.github.com/Alphashivesh/999130757ee600c598bb22fdd081b6c0)
-
-- Customize all the cards:
-
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Alphashivesh&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Shivesh's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
-
 
 ---
 
