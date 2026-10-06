@@ -110,6 +110,32 @@ _...and many more! Explore all [my repositories](https://github.com/Alphashivesh
   <img src="https://github-stats-extended-shivesh.vercel.app/api/top-langs/?username=Alphashivesh&show_icons=true&theme=calm&layout=compact&langs_count=16" />
 </p>
 
+## 📈 GitHub Stats & Contributions
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="Shivesh's GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Shivesh's Top Languages"
+  />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Alphashivesh">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Alphashivesh&theme=dracula&hide_border=true"
+      alt="Shivesh's GitHub Activity Graph"
+    />
+  </a>
+</p>
+
 ## 📌 Featured Gists
 
 <br>
