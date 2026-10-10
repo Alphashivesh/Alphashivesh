@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Shivesh&#39;s Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1052, Total PRs: 2, Total PRs Merged: 1, Merged PRs Percentage: 50.00, Total PRs Reviewed: 0, Total Issues: 0, PRs Reviewed: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1053, Total PRs: 2, Total PRs Merged: 1, Merged PRs Percentage: 50.00, Total PRs Reviewed: 0, Total Issues: 0, PRs Reviewed: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 227.9238670485916;
+        stroke-dashoffset: 227.9098685967159;
       }
     }
   
